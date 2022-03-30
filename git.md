@@ -33,3 +33,5 @@ $git remote add origin https://github.com/naveenraju9/git-lecture.git
 $git push
 add -> commit -> push
 
+//TO see the logs
+$git log
